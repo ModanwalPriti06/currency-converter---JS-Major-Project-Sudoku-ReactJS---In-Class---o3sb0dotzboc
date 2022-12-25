@@ -1,5 +1,5 @@
 import React from 'react'
-import currencyList from './----------------------------'
+import currencyList from './symbolList.js'
 
 export default function CurrencyConverter() {
     const[currencyOne,setCurrencyOne]=useState("USD");
