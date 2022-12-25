@@ -1,4 +1,4 @@
-import react from 'React'
+import React  from "react";
 let data = `AED: "United Arab Emirates Dirham",
   AFN: "Afghan Afghani",
   ALL: "Albanian Lek",
